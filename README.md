@@ -1,19 +1,25 @@
-# Markdown Portfolio
+ # **Anthony Martinez**
+![alt text](https://avatars.githubusercontent.com/u/98353905?v=4")
+<br>
+<br>
+[Connect with me on Github](https://github.com/Anthonydm17 "Anthonys Github")
+<br>
+### About me
+* I love pizza
+* Born and raised in NYC
+* Worked in IT for 5 years 
+* Avid Gamer
+<br>
 
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
+1. Mac Miller
+2. Kid Cudi
+3. The Notorious B.I.G.
+4. Kanye West
+5. Arianna Grande
+<br>
 
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-### Instructions
-
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
-1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
-2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
+| Places ive lived| Rating      |
+| ------------- |:-------------:| 
+| New York      | 10/10         | 
+| Florida      | 7/10     |  
+| North Carolina | 5/10      | 
